@@ -27,8 +27,9 @@ If you have an improvement suggestion or a bug fix for this tutorial, please ope
 If you are looking for a more _detailed_ **T**est **D**riven **D**evelopment (**TDD**) Tutorial see: [https://github.com/dwyl/**learn-tdd**](https://github.com/dwyl/learn-tdd)
 
 
-
+![The real meme :)](http://i65.tinypic.com/2801bia.jpg)
 ![Cowboy Coder](http://i.imgur.com/N0VqWcL.png "Cowboy Coder")
+
 
 We all know *Cowboy Coders*. (*If you don't, its you!*)
 
