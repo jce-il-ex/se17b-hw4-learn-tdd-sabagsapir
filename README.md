@@ -20,7 +20,7 @@ For students, follow these steps:
 - Name:  Sapir Sabag
 - ID#: 308388636
 - github username: sabagsapir
-- Estimation of hours I worked on it: 3 hours
+- Estimation of hours I worked on it: 3 and a helf hours
 
 If you have an improvement suggestion or a bug fix for this tutorial, please open an issue [here](https://github.com/jce-il/learn-mocha/issues) or send a PR with a fix.
 
